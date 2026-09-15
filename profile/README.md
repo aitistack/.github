@@ -1,7 +1,7 @@
 ## Hi there
 
-### We are aitistack
+### Aitistack - Muhammad Aitisam Yaseen
 
-**A team of Full Stack Engineers with 6+ years of experience crafting scalable web applications. We are specialized in the MERN / PERN / Laravel / Python ecosystems, AI Automations and cloud-native architectures.**
+**I'm a Full Stack Engineers with 5+ years of experience crafting scalable web applications. I am specialized in the MERN / PERN / Laravel / Python ecosystems, AI Automations and cloud-native architectures.**
 
-Performance-driven Software Engineers and Solution Architects with 6+ years architecting, scaling, and maintaining complex web, mobile, and cloud-based systems. Specialized in backend optimization, database scaling, real-time communication architectures, and secure cloud workflows across modern JavaScript and PHP ecosystems.
+Performance-driven Software Engineer and Solutions Architect with 5+ years architecting, scaling, and maintaining complex web, mobile, and cloud-based systems. Specialized in backend optimization, database scaling, real-time communication architectures, and secure cloud workflows across modern JavaScript and PHP ecosystems.
