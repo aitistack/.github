@@ -33,8 +33,6 @@ Specialized in backend optimization, database scaling, real-time communication a
 
 > **Architecting systems that stay fast under load**
 
-`Remote-first` · `Backend-strong` · `Product-minded`
-
 <br>
 
 <a href="./resume.pdf"><strong>Resume</strong></a>
@@ -81,22 +79,6 @@ Backend tuning, database scaling, real-time communication, and reliability-minde
 
 <table width="100%" cellpadding="0" cellspacing="0">
 <tr>
-<td align="center">
-
-**SHIP FAST** &nbsp; **SCALE CLEAN** &nbsp; **SECURE DEFAULTS** &nbsp; **MEASURE IMPACT**
-
-<br>
-
-Tight loops from idea to production without cutting quality.
-
-</td>
-</tr>
-</table>
-
-<br>
-
-<table width="100%" cellpadding="0" cellspacing="0">
-<tr>
 <td align="center" width="33%"><strong>20+</strong><br><sub>Projects Shipped</sub></td>
 <td align="center" width="33%"><strong>5+</strong><br><sub>Years Exp.</sub></td>
 <td align="center" width="34%"><strong>100%</strong><br><sub>Client Satisfaction</sub></td>
@@ -116,7 +98,7 @@ Tight loops from idea to production without cutting quality.
 <p align="center">Tools and technologies I use to bring ideas to life.</p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/%E2%9A%A1%20CORE%20STACKS-00F5A0?style=flat-square&labelColor=06251C&color=00F5A0" alt="Core Stacks">
+  <img src="https://img.shields.io/badge/%E2%9A%A1%20CORE%20STACKS-00F5A0?style=flat-square&labelColor=06251C&color=000000" alt="Core Stacks">
   <img src="https://img.shields.io/badge/MERN-151918?style=flat-square&labelColor=151918&color=303735" alt="MERN">
   <img src="https://img.shields.io/badge/PERN-151918?style=flat-square&labelColor=151918&color=303735" alt="PERN">
   <img src="https://img.shields.io/badge/Laravel-151918?style=flat-square&labelColor=151918&color=303735" alt="Laravel">
