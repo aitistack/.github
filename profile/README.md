@@ -31,9 +31,7 @@ Specialized in backend optimization, database scaling, real-time communication a
 
 <br>
 
-> **AY · NOW TRANSMITTING**
->
-> Architecting systems that stay fast under load
+> **Architecting systems that stay fast under load**
 
 `Remote-first` · `Backend-strong` · `Product-minded`
 
