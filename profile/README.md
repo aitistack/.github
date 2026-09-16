@@ -13,9 +13,9 @@
 
 <br>
 
-<table width="100%">
+<table width="100%" cellpadding="0" cellspacing="0">
 <tr>
-<td width="39%" valign="top">
+<td width="43%" valign="top">
 
 <p align="center">
   <img src="./assets/profile.png" width="170" alt="Muhammad Aitisam Yaseen">
@@ -49,9 +49,9 @@ Specialized in backend optimization, database scaling, real-time communication a
 
 </td>
 
-<td width="61%" valign="top">
+<td width="57%" valign="top">
 
-<table width="100%">
+<table width="100%" cellpadding="0" cellspacing="0">
 <tr>
 <td width="50%" valign="top">
 
@@ -160,7 +160,7 @@ Client Satisfaction
   <img src="https://img.shields.io/badge/Django%20·%20FastAPI-151918?style=flat-square&labelColor=151918&color=303735">
 </p>
 
-<table width="100%">
+<table width="100%" cellpadding="0" cellspacing="0">
 <tr>
 <td width="50%" valign="top">
 
@@ -168,8 +168,7 @@ Client Satisfaction
 
 <sub>Frontend Core, UI Frameworks &amp; Libraries</sub>
 
-`HTML5/CSS3` `JavaScript` `jQuery` `React.js` `Next.js` `Tailwind CSS`
-
+`HTML5/CSS3` `JavaScript` `jQuery` `React.js` `Next.js` `Tailwind CSS`<br>
 `Ant Design` `Styled Components` `Shadcn/ui` `Daisy UI` `Framer Motion`
 
 `GSAP` `Three.js` `Bootstrap` `Material UI` `Capacitor` `PWA`
@@ -181,8 +180,7 @@ Client Satisfaction
 
 <sub>APIs, DB, ORM's/ODM's, Caching &amp; Queueing</sub>
 
-`Node.js` `Express.js` `Fastify` `Nest.js` `Laravel` `PostgreSQL`
-
+`Node.js` `Express.js` `Fastify` `Nest.js` `Laravel` `PostgreSQL`<br>
 `MongoDB` `MySQL` `SQLite` `Redis` `Kafka` `RabbitMQ` `BullMQ`
 
 `Pg-Boss` `Prisma` `Sequelize` `TypeORM` `Drizzle ORM` `Mongoose`
