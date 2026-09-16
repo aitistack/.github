@@ -40,6 +40,8 @@ Specialized in backend optimization, database scaling, real-time communication a
 <a href="https://github.com/MaitisamY"><strong>GitHub</strong></a>
 &nbsp;&nbsp;·&nbsp;&nbsp;
 <a href="https://linkedin.com/in/muhammad-aitisam-yaseen"><strong>LinkedIn</strong></a>
+&nbsp;&nbsp;·&nbsp;&nbsp;
+<a href="https://aitistack.com"><strong>Portfolio</strong></a>
 
 </td>
 
