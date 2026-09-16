@@ -1,11 +1,21 @@
+/* AitiStack Design Tokens
+   Source-of-truth for the portfolio / web implementation.
+   GitHub README rendering does not load repository CSS, so README.md
+   intentionally uses GitHub-supported Markdown + HTML primitives.
+*/
+
 :root {
-    --profile-bg: #0B0D0D;
-    --profile-panel: #121515;
-    --profile-panel-2: #151919;
-    --profile-border: #26302D;
-    --profile-text: #F2F5F4;
-    --profile-muted: #9BA6A3;
-    --profile-accent: #00F5A0;
-    --profile-accent-2: #00C98A;
-    --profile-accent-soft: #8DFFD4;
+    --as-bg: #090B0B;
+    --as-surface: #111414;
+    --as-surface-2: #171A19;
+    --as-border: #2B3230;
+    --as-text: #F2F5F4;
+    --as-muted: #9BA6A3;
+    --as-accent: #00F5A0;
+    --as-accent-2: #00C98A;
+    --as-accent-soft: #8DFFD4;
+    --as-radius: 16px;
+    --as-radius-sm: 10px;
+    --as-content-width: 1120px;
+    --as-gap: 18px;
 }
