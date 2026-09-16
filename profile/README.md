@@ -1,19 +1,15 @@
-<p align="center">
-  <img src="./assets/hero.png" alt="Muhammad Aitisam Yaseen - Building Digital Experiences" width="100%">
-</p>
+<div align="center">
 
-<p align="center">
-  <a href="https://linkedin.com/in/muhammad-aitisam-yaseen">LinkedIn</a>
-  ·
-  <a href="https://github.com/MaitisamY">GitHub</a>
-  ·
-  <a href="./YOUR-RESUME-FILE.pdf">Resume</a>
-</p>
+<img src="./assets/01-hero.svg" width="100%" alt="Building Digital Experiences">
 
-<p align="center">
-  <img src="./assets/profile.png" alt="Muhammad Aitisam Yaseen - Profile" width="100%">
-</p>
+<img src="./assets/02-profile-capabilities.svg" width="100%" alt="Profile and capabilities">
 
-<p align="center">
-  <img src="./assets/technical-arsenal.png" alt="Technical Arsenal" width="100%">
-</p>
+<img src="./assets/03-technical-arsenal.svg" width="100%" alt="Technical Arsenal">
+
+</div>
+
+<!--
+Resume: replace ./resume.pdf with your preferred resume URL/file.
+GitHub: https://github.com/MaitisamY
+LinkedIn: https://linkedin.com/in/muhammad-aitisam-yaseen
+-->
