@@ -1,7 +1,6 @@
 /* AitiStack Design Tokens
-   Source-of-truth for the portfolio / web implementation.
-   GitHub README rendering does not load repository CSS, so README.md
-   intentionally uses GitHub-supported Markdown + HTML primitives.
+   Source of truth for the portfolio/web implementation.
+   GitHub does not apply repository CSS to rendered README Markdown.
 */
 
 :root {

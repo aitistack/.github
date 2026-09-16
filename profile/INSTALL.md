@@ -1,10 +1,6 @@
-# GitHub Profile Package
+# AitiStack GitHub Organization Profile
 
-Copy the contents of `profile/` into the organization's:
-
-`.github/profile/`
-
-Result:
+Copy this `profile/` directory into the organization's `.github/` repository:
 
 ```text
 .github/
@@ -15,24 +11,18 @@ Result:
         └── profile.png
 ```
 
-`README.md` is the actual rendered design. It does not use generated screenshots,
-hero SVGs, capability SVGs, or screenshot-as-content.
+## Layout
 
-`design-tokens.css` preserves the AitiStack design-token system as the source of
-truth for the web/portfolio implementation. GitHub does not load repository CSS
-into rendered README content, so the README uses GitHub-supported Markdown and
-HTML layout primitives.
+The profile intentionally uses a wider **48% About** column and a **52% capability** column.
 
-Resume link is currently `./resume.pdf`; replace it yourself when ready.
+The four capability panels are stacked vertically instead of being forced into a
+nested two-column grid. This prevents GitHub's Markdown table min-content sizing
+from creating horizontal overflow.
 
+The Technical Arsenal cards are also stacked vertically so the complete README
+remains responsive and does not introduce a horizontal scrollbar.
 
-## Layout tuning
+Only the actual profile photograph is an image asset. The layout itself is
+native Markdown/HTML.
 
-Main profile grid: **43% About / 57% capabilities**. Capability and technology grids use full-width nested tables with balanced columns and zero cell spacing to minimize horizontal overflow.
-
-## Overflow fix
-
-The profile/capability layout uses a 43/57 split, while the right-side cards
-use a constrained 50/50 nested table. Dense technology groups are explicitly
-broken with HTML line breaks so GitHub's table min-content sizing does not
-create a horizontal scrollbar.
+Replace `./resume.pdf` in `README.md` with your preferred resume link/file.
