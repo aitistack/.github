@@ -49,7 +49,7 @@ Specialized in backend optimization, database scaling, real-time communication a
 
 </td>
 
-<td width="57%" valign="top">
+<td width="50%" valign="top">
 
 <table width="100%" cellpadding="8" cellspacing="0">
 <tr>
