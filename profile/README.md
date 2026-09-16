@@ -1,122 +1,50 @@
 <div align="center">
 
-# Muhammad Aitisam Yaseen
+<img src="./assets/hero.svg" alt="Muhammad Aitisam Yaseen - Engineering Profile" width="100%">
 
-**Performance-driven Software Engineer & Solutions Architect**
+<br>
 
-Architecting systems that stay fast under load.
+<img src="./assets/capabilities.svg" alt="Engineering capabilities" width="100%">
+
+<br>
+
+<img src="./assets/metrics.svg" alt="20 plus projects shipped, 5 plus years experience, 100 percent client satisfaction" width="100%">
 
 </div>
 
----
-
-<table>
-<tr>
-<td width="40%" valign="top">
-
-### A B O U T &nbsp; M E
-
-**Muhammad Aitisam Yaseen**
+## About Me
 
 Performance-driven Software Engineer and Solutions Architect with **5+ years** architecting, scaling, and maintaining complex web, mobile, and cloud-based systems.
 
 Specialized in backend optimization, database scaling, real-time communication architectures, and secure cloud workflows across modern JavaScript and PHP ecosystems.
 
-<br>
-
 > **AY · NOW TRANSMITTING**
 >
-> **Architecting systems that stay fast under load**
-
-<br>
-
-`Remote-first` · `Backend-strong` · `Product-minded`
-
-<br>
-
-[**Resume**](#resume) &nbsp;&nbsp; [**GitHub**](https://github.com) &nbsp;&nbsp; [**LinkedIn**](https://www.linkedin.com)
-
-</td>
-
-<td width="60%" valign="top">
-
-### API Architecture
-
-REST & GraphQL systems with clear contracts, secure authentication, and maintainable service boundaries.
-
-`REST` `GraphQL` `Auth` `Service Design`
-
-<br>
-
-### Scalable Front-Ends
-
-React and Next.js interfaces built around performance, accessibility, and clean state flow.
-
-`React` `Next.js` `Design Systems` `Performance`
-
-<br>
-
-### Cloud Workflows
-
-CI/CD, deployments, and cloud-native integrations across modern product stacks.
-
-`GitHub Actions` `Vercel` `AWS` `Firebase`
-
-<br>
-
-### System Optimization
-
-Backend tuning, database scaling, real-time communication, and reliability-minded delivery.
-
-`Databases` `Realtime` `Queues` `Observability`
-
-</td>
-</tr>
-</table>
-
----
+> Architecting systems that stay fast under load.
+>
+> `Remote-first` · `Backend-strong` · `Product-minded`
 
 <div align="center">
 
-`SHIP FAST` &nbsp;&nbsp; `SCALE CLEAN` &nbsp;&nbsp; `SECURE DEFAULTS` &nbsp;&nbsp; `MEASURE IMPACT`
-
-**Architecture that stays maintainable as traffic and teams grow.**
+[![Resume](https://img.shields.io/badge/Resume-0B0D0D?style=for-the-badge&logo=readthedocs&logoColor=#00F5A0&labelColor=0B0D0D)](#)
+[![GitHub](https://img.shields.io/badge/GitHub-0B0D0D?style=for-the-badge&logo=github&logoColor=FFFFFF&labelColor=0B0D0D)](https://github.com/aitistack)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0B0D0D?style=for-the-badge&logo=linkedin&logoColor=#00F5A0&labelColor=0B0D0D)](https://www.linkedin.com/)
 
 </div>
 
 ---
 
-<table>
-<tr>
-<td align="center" width="33%">
+<div align="center">
 
-## 20+
+<img src="./assets/principles.svg" alt="Engineering principles" width="100%">
 
-Projects Shipped
-
-</td>
-<td align="center" width="33%">
-
-## 5+
-
-Years Exp.
-
-</td>
-<td align="center" width="33%">
-
-## 100%
-
-Client Satisfaction
-
-</td>
-</tr>
-</table>
+</div>
 
 ---
 
 ## What We Build
 
-<table>
+<table width="100%">
 <tr>
 <td width="50%" valign="top">
 
@@ -181,53 +109,37 @@ Client Satisfaction
 
 ---
 
-## Engineering Principles
+<div align="center">
 
-| Principle | What it means |
-|---|---|
-| **Ship Fast** | Move from idea to production without unnecessary complexity. |
-| **Scale Clean** | Design service boundaries and data flows that can grow with the product. |
-| **Secure Defaults** | Treat authentication, authorization, validation, and infrastructure security as core architecture. |
-| **Measure Impact** | Use performance, reliability, and product signals to guide engineering decisions. |
+<img src="./assets/technology.svg" alt="Technology stack" width="100%">
 
----
-
-## Technology
-
-**Frontend**
-
-`React` `Next.js` `Vite` `Tailwind CSS` `Ant Design`
-
-**Backend**
-
-`Node.js` `Fastify` `Express` `PHP` `Laravel`
-
-**Data**
-
-`PostgreSQL` `MongoDB` `Redis` `Sequelize`
-
-**Infrastructure**
-
-`Docker` `GitHub Actions` `AWS` `Vercel` `Nginx` `Linux`
-
-**Architecture**
-
-`REST` `GraphQL` `Microservices` `Multi-Tenant SaaS` `Real-Time Systems`
-
----
-
-## Current Focus
-
-Building reliable, scalable product infrastructure where **performance, maintainability, security, and product velocity** work together.
-
-> **Build systems that don't just work. Build systems that keep working as everything around them grows.**
+</div>
 
 ---
 
 <div align="center">
 
+<img src="./assets/closing.svg" alt="Current engineering focus" width="100%">
+
+<br><br>
+
 ### Let's Build Something That Scales.
 
-[GitHub](https://github.com) · [LinkedIn](https://www.linkedin.com)
+[GitHub](https://github.com/aitistack) · [LinkedIn](https://www.linkedin.com/)
 
 </div>
+
+<!--
+Design system:
+Background: #0B0D0D
+Panel: #121515
+Border: #26302D
+Text: #F2F5F4
+Muted: #9BA6A3
+Accent: #00F5A0
+Accent 2: #00C98A
+
+GitHub strips inline CSS, style tags, classes, and IDs from rendered Markdown.
+The visual system above is therefore implemented through repository-local SVG assets,
+while the semantic content remains in Markdown/HTML for accessibility and indexing.
+-->
