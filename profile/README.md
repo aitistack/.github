@@ -51,45 +51,94 @@ Specialized in backend optimization, database scaling, real-time communication a
 
 <td width="57%" valign="top">
 
-<table width="100%" cellpadding="0" cellspacing="0">
+<table width="100%" cellpadding="8" cellspacing="0">
 <tr>
 <td width="50%" valign="top">
 
-### API Architecture
+<h3>API Architecture</h3>
 
 REST &amp; GraphQL systems with clear contracts, secure auth, and maintainable service boundaries.
 
-`REST` `GraphQL` `Auth` `Service Design`
+<code>REST</code> <code>GraphQL</code> <code>Auth</code><br>
+<code>Service Design</code>
 
 </td>
 <td width="50%" valign="top">
 
-### Scalable Front-Ends
+<h3>Scalable Front-Ends</h3>
 
 React and Next.js interfaces built around performance, accessibility, and clean state flow.
 
-`React` `Next.js` `Design Systems` `Performance`
+<code>React</code> <code>Next.js</code><br>
+<code>Design Systems</code> <code>Performance</code>
 
 </td>
 </tr>
-
 <tr>
 <td width="50%" valign="top">
 
-### Cloud Workflows
+<h3>Cloud Workflows</h3>
 
 CI/CD, deployments, and cloud-native integrations across modern product stacks.
 
-`GitHub Actions` `Vercel` `AWS` `Firebase`
+<code>GitHub Actions</code><br>
+<code>Vercel</code> <code>AWS</code> <code>Firebase</code>
 
 </td>
 <td width="50%" valign="top">
 
-### System Optimization
+<h3>System Optimization</h3>
 
 Backend tuning, database scaling, real-time communication, and reliability-minded delivery.
 
-`Databases` `Realtime` `Queues` `Observability`
+<code>Databases</code> <code>Realtime</code><br>
+<code>Queues</code> <code>Observability</code>
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<table width="100%" cellpadding="8" cellspacing="0">
+<tr>
+<td valign="top" align="left">
+
+<strong>SHIP FAST</strong> &nbsp; <strong>SCALE CLEAN</strong><br>
+<strong>SECURE DEFAULTS</strong> &nbsp; <strong>MEASURE IMPACT</strong>
+
+<br><br>
+
+Tight loops from idea to production without cutting quality.
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<table width="100%" cellpadding="8" cellspacing="0">
+<tr>
+<td align="center" width="33%">
+
+<strong>20+</strong><br>
+<sub>Projects Shipped</sub>
+
+</td>
+<td align="center" width="33%">
+
+<strong>5+</strong><br>
+<sub>Years Exp.</sub>
+
+</td>
+<td align="center" width="34%">
+
+<strong>100%</strong><br>
+<sub>Client Satisfaction</sub>
+
+</td>
+</tr>
+</table>
 
 </td>
 </tr>
@@ -168,10 +217,11 @@ Client Satisfaction
 
 <sub>Frontend Core, UI Frameworks &amp; Libraries</sub>
 
-`HTML5/CSS3` `JavaScript` `jQuery` `React.js` `Next.js` `Tailwind CSS`<br>
-`Ant Design` `Styled Components` `Shadcn/ui` `Daisy UI` `Framer Motion`
-
-`GSAP` `Three.js` `Bootstrap` `Material UI` `Capacitor` `PWA`
+<code>HTML5/CSS3</code> <code>JavaScript</code> <code>jQuery</code> <code>React.js</code><br>
+<code>Next.js</code> <code>Tailwind CSS</code> <code>Ant Design</code><br>
+<code>Styled Components</code> <code>Shadcn/ui</code> <code>Daisy UI</code><br>
+<code>Framer Motion</code> <code>GSAP</code> <code>Three.js</code><br>
+<code>Bootstrap</code> <code>Material UI</code> <code>Capacitor</code> <code>PWA</code>
 
 </td>
 <td width="50%" valign="top">
@@ -180,10 +230,11 @@ Client Satisfaction
 
 <sub>APIs, DB, ORM's/ODM's, Caching &amp; Queueing</sub>
 
-`Node.js` `Express.js` `Fastify` `Nest.js` `Laravel` `PostgreSQL`<br>
-`MongoDB` `MySQL` `SQLite` `Redis` `Kafka` `RabbitMQ` `BullMQ`
-
-`Pg-Boss` `Prisma` `Sequelize` `TypeORM` `Drizzle ORM` `Mongoose`
+<code>Node.js</code> <code>Express.js</code> <code>Fastify</code> <code>Nest.js</code><br>
+<code>Laravel</code> <code>PostgreSQL</code> <code>MongoDB</code> <code>MySQL</code><br>
+<code>SQLite</code> <code>Redis</code> <code>Kafka</code> <code>RabbitMQ</code><br>
+<code>BullMQ</code> <code>Pg-Boss</code> <code>Prisma</code> <code>Sequelize</code><br>
+<code>TypeORM</code> <code>Drizzle ORM</code> <code>Mongoose</code>
 
 </td>
 </tr>
@@ -195,15 +246,15 @@ Client Satisfaction
 
 <sub>Testing, Deployment, CI/CD, Infrastructure &amp; AI Integrations</sub>
 
-`SuperTest` `Jest` `React Testing Library` `Cypress` `Playwright`
+<code>SuperTest</code> <code>Jest</code> <code>React Testing Library</code><br><code>Cypress</code> <code>Playwright</code>
 
-`Jasmine` `Mocha` `Chai` `Docker` `Kubernetes` `Helm` `ArgoCD`
+<code>Jasmine</code> <code>Mocha</code> <code>Chai</code> <code>Docker</code><br><code>Kubernetes</code> <code>Helm</code> <code>ArgoCD</code>
 
-`Jenkins` `GitLab CI/CD` `GitHub Actions` `Travis CI` `CircleCI`
+<code>Jenkins</code> <code>GitLab CI/CD</code> <code>GitHub Actions</code><br><code>Travis CI</code> <code>CircleCI</code>
 
-`Google Maps API` `Google Places API` `Gemini API` `Sonix.ai AI` `Grok AI`
+<code>Google Maps API</code> <code>Google Places API</code><br><code>Gemini API</code> <code>Sonix.ai AI</code> <code>Grok AI</code>
 
-`OpenAI API` `Anthropic API`
+<code>OpenAI API</code> <code>Anthropic API</code>
 
 </td>
 <td width="50%" valign="top">
