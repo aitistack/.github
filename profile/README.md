@@ -15,7 +15,7 @@
 
 <table width="100%" cellpadding="0" cellspacing="0">
 <tr>
-<td width="43%" valign="top">
+<td width="50%" valign="top">
 
 <p align="center">
   <img src="./assets/profile.png" width="170" alt="Muhammad Aitisam Yaseen">
