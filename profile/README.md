@@ -21,8 +21,6 @@
   <img src="./assets/profile.png" width="180" alt="Muhammad Aitisam Yaseen">
 </p>
 
-<p align="center"><strong>ABOUT ME</strong></p>
-
 <h2>Muhammad <span style="color:#00F5A0;">Aitisam</span> Yaseen</h2>
 
 Performance-driven Software Engineer and Solutions Architect with **5+ years** architecting, scaling, and maintaining complex web, mobile, and cloud-based systems.
@@ -93,8 +91,6 @@ Backend tuning, database scaling, real-time communication, and reliability-minde
 
 <br>
 
-<p align="center"><strong>CAPABILITIES</strong></p>
-
 <h1 align="center">Technical Arsenal</h1>
 
 <p align="center">Tools and technologies I use to bring ideas to life.</p>
@@ -163,24 +159,6 @@ Backend tuning, database scaling, real-time communication, and reliability-minde
 `Vite` `Electron` `AWS S3` `AWS CloudFront` `AWS MediaConvert`  
 `AWS Lambda` `Hostinger VPS` `Digital Ocean` `Vercel` `Netlify`  
 `Firebase` `Supabase` `Stripe` `RevenueCat` `Twilio` `ZegoCloud`
-
-</td>
-</tr>
-</table>
-
-<br>
-
-<table width="100%" cellpadding="0" cellspacing="0">
-<tr>
-<td align="center">
-
-<strong>Building systems that stay fast, maintainable, and ready to grow.</strong>
-
-<br><br>
-
-<a href="https://github.com/MaitisamY">GitHub</a>
-&nbsp;&nbsp;·&nbsp;&nbsp;
-<a href="https://linkedin.com/in/muhammad-aitisam-yaseen">LinkedIn</a>
 
 </td>
 </tr>
